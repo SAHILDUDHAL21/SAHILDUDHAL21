@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 𝕾𝖆𝖍𝖎𝖑 𝕯𝖚𝖉𝖍𝖆𝖑</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate programmer from India</h3>
 <img align="right" alt="Coding width="200" src="https://cdn1.vectorstock.com/i/1000x1000/47/05/young-man-programmer-working-on-computer-with-code-vector-18324705.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=Profile%20views&color=0e75b6&style=flat" alt="sahildudhal21" /> </p>
