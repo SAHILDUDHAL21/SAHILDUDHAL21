@@ -12,7 +12,7 @@
 <br>
 - 👯 I’m looking to collaborate on **Web Development Project**
 <br>
-- 📫 How to reach me <a herf="url">sahildudhal1364@gmail.com</a>
+- 📫 How to reach me <a href="url">sahildudhal1364@gmail.com</a>
                                   
 <br>
 - ⚡ Fun fact **I am never bored of computing,can work for hours.**
