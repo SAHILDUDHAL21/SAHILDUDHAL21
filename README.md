@@ -30,7 +30,7 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/sahil-dudhal-1b11b925a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-dudhal-1b11b925a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sahil-dudhal-1b11b925a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-dudhal-1b11b925a" height="30" width="40"/></a>
 
 <a href="https://instagram.com/sahil_dudhal_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil_dudhal_21" height="30" width="40" /></a>
 
