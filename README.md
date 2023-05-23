@@ -34,7 +34,7 @@
 
 <a href="https://instagram.com/sahil_dudhal_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil_dudhal_21" height="30" width="40" /></a>
 
-</p><br><br>
+</p><br>
 
 
 
@@ -42,7 +42,7 @@
 
 <br>
 <br>
-<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=Profile%20views&color=0e75b6&style=flat" alt="sahildudhal21" /> </p><br>
 
                                                                                                                                                
