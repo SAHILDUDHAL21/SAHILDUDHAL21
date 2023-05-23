@@ -16,7 +16,8 @@
 
 <br>
 
-- 📫 How to reach me <a href="url">sahildudhal1364@gmail.com</a>
+- 📫 How to reach me:
+- (sahildudhal1364@gmail.com)
 
                                   
 
