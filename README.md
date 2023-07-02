@@ -32,9 +32,8 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/sahil-dudhal-1b11b925a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-dudhal-1b11b925a" height="30" width="40"/>LinkedIn</a> 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahil_dudhal_21)     [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-dudhal-1b11b925a) 
 
-<a href="https://instagram.com/sahil_dudhal_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil_dudhal_21" height="30" width="40" />Instagram</a>  
 
 </p><br>
 
@@ -43,9 +42,9 @@
 
 
 <br>
+ [![](https://visitcount.itsvg.in/api?id=sahildudhal21&icon=1&color=10)](https://visitcount.itsvg.in)
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=Profile%20views&color=0e75b6&style=flat" alt="sahildudhal21" /> </p><br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sahildudhal21&theme=discord&no-frame=false&no-bg=true&margin-w=4)                                                                                                                                               
