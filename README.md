@@ -42,7 +42,7 @@
 
 
 <br>
- [![](https://visitcount.itsvg.in/api?id=sahildudhal21&icon=1&color=10)](https://visitcount.itsvg.in)
+ 
 <br>
 
 
@@ -68,7 +68,8 @@
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=SAHILDUDHAL21&limit=5&theme=dark&combine_all_yearly_contributions=true)<br><br><br>
-                                                                                                      <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=Profile%20views&color=0e75b6&style=flat" alt="sahildudhal21" /> </p><br>             
+                                                                                                     
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=Profile%20views&color=0e75b6&style=flat" alt="sahildudhal21" /> </p><br>             
 
                                                                                                                       
                                                                                                                      
