@@ -13,7 +13,8 @@
 <br>
 
 - 👯 I’m looking to collaborate on Web Development Project
-
+  <br>
+-🎫️ Feel free to reach out to me for collaboration, project ideas, or any software-related discussions. I am always excited to connect with fellow developers and contribute to the open source community. Let's build amazing things together!
 <br>
 
 - 📫 Contact me on:
