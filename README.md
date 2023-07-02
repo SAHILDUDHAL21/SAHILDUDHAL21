@@ -27,10 +27,7 @@
 - ⚡ Fun fact : <i>I am never bored of computing,can work for hours.</i>
 
 <br><br><br>
-
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=Profile%20views&color=0e75b6&style=flat" alt="sahildudhal21" /> </p><br>
-
-
+![](https://komarev.com/ghpvc/?username=sahildudhal21&style=flat&color=orange&label=📶️+PROFILE+VIEWS)
 
 ## 🌐 Connect With Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100093981682490) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahil_dudhal_21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-dudhal-1b11b925a) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sahil-Dudhal?ch=10&oid=2154182190&share=6cf86f0a&srid=hjD9gj&target_type=user) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Sahil-wt4ju?feature=share7) 
@@ -60,7 +57,12 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sahildudhal21&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=sahildudhal21&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=Profile%20views&color=0e75b6&style=flat" alt="sahildudhal21" /> </p><br>
+
 
 
                                                                                                                  
