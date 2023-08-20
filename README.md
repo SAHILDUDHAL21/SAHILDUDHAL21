@@ -27,7 +27,7 @@
 - ⚡ Fun fact : <i>I am never bored of computing,can work for hours.</i>
 
 <br><br><br>
-![](https://komarev.com/ghpvc/?username=sahildudhal21&style=plastic&color=orange&label=📶PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=sahildudhal21&icon=6&color=5&label=📶PROFILE+VIEWS)
 
 
 
@@ -63,8 +63,7 @@
 
 
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=Profile+views&icon=6&color=5" alt="sahildudhal21" /> </p><br>
-
+ 
 
 
      
