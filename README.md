@@ -22,7 +22,6 @@
 </p>
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=Profile+views&color=0e75b6&style=flat" alt="sahildudhal21"/></p>
-<br>
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 
 ## 🌐 Connect With Me:
