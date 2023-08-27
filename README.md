@@ -1,11 +1,12 @@
 ![logo](https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/github-header-image.png)
 <h2 align="center">Hi 👋, I'm 𝕾𝖆𝖍𝖎𝖑 𝕯𝖚𝖉𝖍𝖆𝖑</h2>
 <h4 align="center">A passionate programmer from India</h4>
-<p>
-<img alt="Coding" align="left" width="40%" src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/coding.gif">
-<img alt="Coding" align="right" width="40%" src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/original-9b809d30eae216a7e468ae368be1677e.png">
-</p>
+
+<img alt="Coding" align="centre" width="40%" src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/coding.gif">
+
 <hr>
+<hr>
+<p align="centre">
 - 🌱 I’m currently learning **Python Programming**
 <br>
 - 👯 I’m looking to collaborate on Web Development Project
@@ -19,7 +20,7 @@
 - (sahildudhal1364@gmail.com)
 <br>
 - ⚡ Fun fact : <i>I am never bored of computing,can work for hours.</i>
-
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=Profile+views&color=0e75b6&style=flat" alt="sahildudhal21"/></p>
 <br>
