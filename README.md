@@ -1,24 +1,24 @@
 ![logo](https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/github-header-image.png)
-<h2 align="center">Hi 👋, I'm 𝕾𝖆𝖍𝖎𝖑 𝕯𝖚𝖉𝖍𝖆𝖑</h2>
-<h4 align="center">A passionate programmer from India</h4>
+<h2 align="center">𝕾𝖆𝖍𝖎𝖑 𝕯𝖚𝖉𝖍𝖆𝖑</𝚑2>
+<𝚑4 𝚊𝚕𝚒𝚐𝚗="𝚌𝚎𝚗𝚝𝚎𝚛">𝙰 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 𝚏𝚛𝚘𝚖 𝙸𝚗𝚍𝚒𝚊</h4>
 
 <img alt="Coding" align="centre" width="40%" src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/coding.gif">
 
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 <p align="centre">
-- 🌱 I’m currently learning **Python Programming**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙿𝚢𝚝𝚑𝚘𝚗 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐**
 <br>
-- 👯 I’m looking to collaborate on Web Development Project
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝
  <br>
  <font size="1">
   
--🎫️ Feel free to reach out to me for collaboration, project ideas, or any software-related discussions. I am always excited to connect with fellow developers and contribute to the open source community. Let's build amazing things together! </font>
+-🎫️ 𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 𝚝𝚘 𝚖𝚎 𝚏𝚘𝚛 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗, 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚒𝚍𝚎𝚊𝚜, 𝚘𝚛 𝚊𝚗𝚢 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎-𝚛𝚎𝚕𝚊𝚝𝚎𝚍 𝚍𝚒𝚜𝚌𝚞𝚜𝚜𝚒𝚘𝚗𝚜. 𝙸 𝚊𝚖 𝚊𝚕𝚠𝚊𝚢𝚜 𝚎𝚡𝚌𝚒𝚝𝚎𝚍 𝚝𝚘 𝚌𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚏𝚎𝚕𝚕𝚘𝚠 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 𝚊𝚗𝚍 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝚝𝚑𝚎 𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎 𝚌𝚘𝚖𝚖𝚞𝚗𝚒𝚝𝚢. 𝙻𝚎𝚝'𝚜 𝚋𝚞𝚒𝚕𝚍 𝚊𝚖𝚊𝚣𝚒𝚗𝚐 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚘𝚐𝚎𝚝𝚑𝚎𝚛! </font>
 
 <br>
 - 📫 Contact me on:
 - (sahildudhal1364@gmail.com)
 <br>
-- ⚡ Fun fact : <i>I am never bored of computing,can work for hours.</i>
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : <i>𝙸 𝚊𝚖 𝚗𝚎𝚟𝚎𝚛 𝚋𝚘𝚛𝚎𝚍 𝚘𝚏 𝚌𝚘𝚖𝚙𝚞𝚝𝚒𝚗𝚐,𝚌𝚊𝚗 𝚠𝚘𝚛𝚔 𝚏𝚘𝚛 𝚑𝚘𝚞𝚛𝚜.</𝚒>
 </p>
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=Profile+views&color=0e75b6&style=flat" alt="sahildudhal21"/></p>
