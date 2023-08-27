@@ -1,11 +1,9 @@
 ![logo](https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/github-header-image.png)
 <h2 align="center">Hi 👋, I'm 𝕾𝖆𝖍𝖎𝖑 𝕯𝖚𝖉𝖍𝖆𝖑</h2>
 <h4 align="center">A passionate programmer from India</h4>
-<img align="right" alt="Coding" width="200" src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/coding.gif">
+<img alt="Coding" width="90%" src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/coding.gif">
  
 
-
-<p align="centre"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Python Programming**
 <br>
