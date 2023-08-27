@@ -12,6 +12,7 @@
 - (sahildudhal1364@gmail.com)
 <br>
 - ⚡ Fun fact : <i>I am never bored of computing,can work for hours.</i>
+<img alt="Coding" align="right" width="30%" src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/original-9b809d30eae216a7e468ae368be1677e.png">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=Profile+views&color=0e75b6&style=flat" alt="sahildudhal21"/></p>
 <br>
