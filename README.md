@@ -47,17 +47,18 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahildudhal21&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
-
+<hr style="height:3px;border-width:0;color:white;background-color:gray">
 
 ### ✍️ Quote Of The Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+<hr style="height:3px;border-width:0;color:white;background-color:gray">
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sahildudhal21&limit=7&theme=blue-green&combine_all_yearly_contributions=true)
 
 
-
+<hr style="height:5px;border-width:0;color:white;background-color:gray">
 
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=Profile+views&color=0e75b6&style=flat" alt="sahildudhal21" /> </p><br>
