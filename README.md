@@ -13,10 +13,6 @@
  <font size="1">
   
 -🎫️ 𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 𝚝𝚘 𝚖𝚎 𝚏𝚘𝚛 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗, 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚒𝚍𝚎𝚊𝚜, 𝚘𝚛 𝚊𝚗𝚢 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎-𝚛𝚎𝚕𝚊𝚝𝚎𝚍 𝚍𝚒𝚜𝚌𝚞𝚜𝚜𝚒𝚘𝚗𝚜. 𝙸 𝚊𝚖 𝚊𝚕𝚠𝚊𝚢𝚜 𝚎𝚡𝚌𝚒𝚝𝚎𝚍 𝚝𝚘 𝚌𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚏𝚎𝚕𝚕𝚘𝚠 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 𝚊𝚗𝚍 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝚝𝚑𝚎 𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎 𝚌𝚘𝚖𝚖𝚞𝚗𝚒𝚝𝚢. 𝙻𝚎𝚝'𝚜 𝚋𝚞𝚒𝚕𝚍 𝚊𝚖𝚊𝚣𝚒𝚗𝚐 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚘𝚐𝚎𝚝𝚑𝚎𝚛! </font>
-
-<br>
-- 📫 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 𝚊𝚝 : (sahildudhal1364@gmail.com)
-
 <br>
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : <i>𝙸 𝚊𝚖 𝚗𝚎𝚟𝚎𝚛 𝚋𝚘𝚛𝚎𝚍 𝚘𝚏 𝚌𝚘𝚖𝚙𝚞𝚝𝚒𝚗𝚐,𝚌𝚊𝚗 𝚠𝚘𝚛𝚔 𝚏𝚘𝚛 𝚑𝚘𝚞𝚛𝚜.</𝚒>
 </p>
@@ -25,7 +21,7 @@
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 
 ## 🌐 Connect With Me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100093981682490) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahil_dudhal_21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-dudhal-1b11b925a) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sahil-Dudhal?ch=10&oid=2154182190&share=6cf86f0a&srid=hjD9gj&target_type=user)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100093981682490) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahil_dudhal_21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-dudhal-1b11b925a) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sahil-Dudhal?ch=10&oid=2154182190&share=6cf86f0a&srid=hjD9gj&target_type=user)[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:sahildudhal1364@gmail.com)
 
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 
