@@ -6,7 +6,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<font size="5">
 - 🌱 I’m currently learning **Python Programming**
 
 <br>
@@ -14,6 +14,7 @@
 - 👯 I’m looking to collaborate on Web Development Project
   <br>
 -🎫️ Feel free to reach out to me for collaboration, project ideas, or any software-related discussions. I am always excited to connect with fellow developers and contribute to the open source community. Let's build amazing things together!
+</font>
 <br>
 
 - 📫 Contact me on:
