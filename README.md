@@ -1,6 +1,6 @@
 ![logo](https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/github-header-image.png)
 <h2 align="center">𝕾𝖆𝖍𝖎𝖑 𝕯𝖚𝖉𝖍𝖆𝖑</𝚑2>
-<𝚑4 𝚊𝚕𝚒𝚐𝚗="𝚌𝚎𝚗𝚝𝚎𝚛">𝙰 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 𝚏𝚛𝚘𝚖 𝙸𝚗𝚍𝚒𝚊</h4>
+<h4 align="centre">𝙰 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 𝚏𝚛𝚘𝚖 𝙸𝚗𝚍𝚒𝚊</h4>
 
 <img alt="Coding" align="centre" width="40%" src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/coding.gif">
 
