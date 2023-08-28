@@ -56,11 +56,7 @@
 
 
 <hr style="height:5px;border-width:0;color:white;background-color:gray">
-
-
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=Profile+views&color=0e75b6&style=flat" alt="sahildudhal21" /> </p><br>
-
-
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=Profile+views&color=0e75b6&style=flat" alt="sahildudhal21" /> </p>
 <hr style="height:5px;border-width:0;color:white;background-color:gray">
 
      
