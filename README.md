@@ -1,7 +1,7 @@
 ![logo](https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/github-header-image.png)
-<h2 align="center">𝕾𝖆𝖍𝖎𝖑 𝕯𝖚𝖉𝖍𝖆𝖑</𝚑2>
+<h1 align="center">𝕾𝖆𝖍𝖎𝖑 𝕯𝖚𝖉𝖍𝖆𝖑</h1>
 <h4 align="center">𝙰 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 𝚏𝚛𝚘𝚖 𝙸𝚗𝚍𝚒𝚊</h4>
-
+<hr style="height:3px;border-width:0;color:white;background-color:gray">
 <img  width="100%" src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/pexels-media-3888151-1693203833732.jpeg">
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 <p align="centre">
