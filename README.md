@@ -2,7 +2,7 @@
 <h1 align="center">𝕾𝖆𝖍𝖎𝖑 𝕯𝖚𝖉𝖍𝖆𝖑</h1>
 <h4 align="center">𝙰 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 𝚏𝚛𝚘𝚖 𝙸𝚗𝚍𝚒𝚊</h4>
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
-<img height="300" width="900" align="centre" src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/IMG_20230828_202253.jpg">
+<img height="30%"  align="centre" src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/IMG_20230828_202253.jpg">
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 <p align="centre">
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 <b>𝙿𝚢𝚝𝚑𝚘𝚗 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐</b>
