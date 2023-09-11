@@ -69,6 +69,8 @@
 ![mercedies](https://aleen42.github.io/badges/src/mercedes_benz.svg)
 ![koenigsegg](https://aleen42.github.io/badges/src/koenigsegg.svg)
 ![ferrari](https://aleen42.github.io/badges/src/ferrari.svg)
+![totyya](https://aleen42.github.io/badges/src/toyota.svg)
+![mercedes](https://aleen42.github.io/badges/src/mercedes_benz.svg)
 
 <hr style="height:5px;border-width:0;color:white;background-color:gray">
      
