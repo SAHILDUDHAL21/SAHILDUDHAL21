@@ -39,6 +39,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sahildudhal21&theme=radical&no-frame=false&no-bg=false&margin-w=5)
+
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 
 
