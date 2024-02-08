@@ -65,5 +65,4 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=Profile+views&color=0e75b6&style=flat" alt="sahildudhal21" /> </p>
 <hr style="height:5px;border-width:0;color:white;background-color:gray">
 
-[![](https://visitcount.itsvg.in/api?id=SAHILDUDHAL21&label=Profile%20Views&color=4&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
