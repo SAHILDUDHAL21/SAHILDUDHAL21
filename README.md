@@ -24,7 +24,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SahilDudhal-zw1ls?si=VElusezMkc-7qL_m)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100093981682490) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sahil_dudhal_1311) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-dudhal-1b11b925a) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sahil-Dudhal?ch=10&oid=2154182190&share=6cf86f0a&srid=hjD9gj&target_type=user)
 [![image](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](http://t.me/Sahil_Dudhal) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/sahild1311?t=_uw8o1IbHXreheg76Dx8LQ&s=09) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sahild1311) 
 
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 
@@ -39,7 +39,7 @@
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sahildudhal21&theme=radical&no-frame=false&no-bg=false&margin-w=5)
+![](https://github-profile-trophy.vercel.app/?username=SAHILDUDHAL21&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 
@@ -64,4 +64,6 @@
 <hr style="height:5px;border-width:0;color:white;background-color:gray">
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=Profile+views&color=0e75b6&style=flat" alt="sahildudhal21" /> </p>
 <hr style="height:5px;border-width:0;color:white;background-color:gray">
-[![](https://visitcount.itsvg.in/api?id=SAHILDUDHAL21&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=SAHILDUDHAL21&label=Profile%20Views&color=4&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
