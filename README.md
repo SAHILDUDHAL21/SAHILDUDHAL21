@@ -39,7 +39,7 @@
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SAHILDUDHAL21&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SAHILDUDHAL21&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 
