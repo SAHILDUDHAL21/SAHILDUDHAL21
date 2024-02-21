@@ -38,14 +38,14 @@
 
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 
-## 🏆 ?𝙶𝚒𝚝𝙷𝚞𝚋 𝚃𝚛𝚘𝚙𝚑𝚒𝚎𝚜
+## 🏆 𝙶𝙸𝚃𝙷𝚄𝙱 𝚃𝚁𝙾𝙿𝙷𝙸𝙴𝚂:
 ![](https://github-profile-trophy.vercel.app/?username=SAHILDUDHAL21&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 
 
 
-## 📊 GitHub Stats:
+## 📊 𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝚂 :
 
 ![](https://github-readme-stats.vercel.app/api?username=sahildudhal21&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sahildudhal21&theme=blue-green&hide_border=false)<br/>
@@ -53,12 +53,12 @@
 
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 
-### ✍️ Quote Of The Day
+### ✍️ 𝚀𝚄𝙾𝚃𝙴 𝙾𝙵 𝚃𝙷𝙴 𝙳𝙰𝚈 :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 
-### 🔝 Top Contributed Repo
+### 🔝 𝚃𝙾𝙿 𝙲𝙾𝙽𝚃𝚁𝙸𝙱𝚄𝚃𝙴𝙳 𝚁𝙴𝙿𝙾𝚂𝙸𝚃𝙾𝚁𝙸𝙴𝚂 :
 ![](https://github-contributor-stats.vercel.app/api?username=sahildudhal21&limit=7&theme=blue-green&combine_all_yearly_contributions=true)
 <hr style="height:5px;border-width:0;color:white;background-color:gray">
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=Profile+views&color=0e75b6&style=flat" alt="sahildudhal21" /> </p>
