@@ -51,11 +51,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAHILDUDHAL21&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
 </div>
-<div align="center" style="display: flex;">
-
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahildudhal21&theme=blue_green" style="width: 35%; height: auto;"/>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahildudhal21&theme=blue_green" style="width: 65%; height: auto;"/>
-</div>  
+<div align="center">
+ 
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahildudhal21&theme=blue_green" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahildudhal21&theme=blue_green" height="180em" />
+</div>
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
 <h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sahildudhal21&theme=react-dark"/>
