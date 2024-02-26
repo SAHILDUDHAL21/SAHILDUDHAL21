@@ -55,7 +55,11 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAHILDUDHAL21&radius=16&theme=radical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+###
+
 <img src="https://raw.githubusercontent.com/SAHILDUDHAL21/SAHILDUDHAL21/output/snake.svg" alt="Snake animation" />
+
+###
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 
 ### ✍️ 𝚀𝚄𝙾𝚃𝙴 𝙾𝙵 𝚃𝙷𝙴 𝙳𝙰𝚈 :
