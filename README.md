@@ -46,6 +46,7 @@
 ## 📊 𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝙸𝚂𝚃𝙸𝙲𝚂:
 <div align="center">
 <!-- kar re benstrock -->
+
 ![](https://github-readme-stats.vercel.app/api?username=SAHILDUDHAL21&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SAHILDUDHAL21&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAHILDUDHAL21&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
@@ -62,7 +63,9 @@
 ## ⚡ 𝙰𝙲𝚃𝙸𝚅𝙸𝚃𝚈 𝙶𝚁𝙰𝙿𝙷:
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sahildudhal21&theme=react-dark"/>
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
+
 <!-- jaa pustakat aai bap bg itha nako dok lau -->
+
 ## ✍️ 𝚀𝚄𝙾𝚃𝙴 𝙾𝙵 𝚃𝙷𝙴 𝙳𝙰𝚈 :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
