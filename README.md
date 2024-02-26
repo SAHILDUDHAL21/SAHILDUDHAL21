@@ -52,7 +52,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahildudhal21&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAHILDUDHAL21&radius=16&theme=blue-green&area=true&order=5" height="300" alt="activity-graph graph"  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAHILDUDHAL21&radius=16&theme=radical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 <img src="https://raw.githubusercontent.com/SAHILDUDHAL21/SAHILDUDHAL21/output/snake.svg" alt="Snake animation" />
