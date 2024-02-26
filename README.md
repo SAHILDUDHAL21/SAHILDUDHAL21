@@ -50,7 +50,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SAHILDUDHAL21&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAHILDUDHAL21&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
-<div style="width: 20%;">
+<div style="width: 20%; height: 30%">
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahildudhal21&theme=blue_green&hide_border=false&count_private=true) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahildudhal21&theme=blue_green&hide_border=false&count_private=true)  </div>    
