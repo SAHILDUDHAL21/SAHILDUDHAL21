@@ -41,7 +41,8 @@
 ## 🏆 𝙶𝙸𝚃𝙷𝚄𝙱 𝚃𝚁𝙾𝙿𝙷𝙸𝙴𝚂:
 ![](https://github-profile-trophy.vercel.app/?username=SAHILDUDHAL21&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<hr style="height:3px;border-width:0;color:white;background-color:gray">
+<img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
+<img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
 
 
 
