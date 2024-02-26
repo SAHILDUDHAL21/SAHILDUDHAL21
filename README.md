@@ -49,8 +49,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=sahildudhal21&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sahildudhal21&theme=blue-green&hide_border=false)      
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahildudhal21&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahildudhal21&theme=blue_green&hide_border=false&count_private=true) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahildudhal21&theme=blue_green&hide_border=false&count_private=true)      
+<img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahildudhal21&theme=blue_green&hide_border=false&count_private=true&layout=compact) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahildudhal21&theme=blue_green&hide_border=false&count_private=true&layout=compact)      
 
 </div>
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
