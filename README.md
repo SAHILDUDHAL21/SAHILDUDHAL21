@@ -51,12 +51,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=sahildudhal21&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true) </br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sahildudhal21&theme=blue-green&hide_border=false)      
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahildudhal21&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact) 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahildudhal21&theme=blue_green&hide_border=false" height="180em" />     
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahildudhal21&theme=blue_green&hide_border=false" height="180em" />  </br>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
 <h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sahildudhal21&theme=react-dark"/>
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
