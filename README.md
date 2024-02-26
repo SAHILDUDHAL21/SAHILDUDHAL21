@@ -50,10 +50,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=sahildudhal21&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sahildudhal21&theme=blue-green&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahildudhal21&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-<br clear="both">
-  <img src="https://raw.githubusercontent.com/SAHILDUDHAL21/SAHILDUDHAL21/output/snake.svg" alt="Snake animation" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAHILDUDHAL21&radius=16&theme=react&area=true&order=4" height="300" alt="activity-graph graph"  />
-  <br>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahildudhal21&theme=blue_green" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahildudhal21&theme=blue_green" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sahildudhal21&theme=react-dark"/>
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 
 ### ✍️ 𝚀𝚄𝙾𝚃𝙴 𝙾𝙵 𝚃𝙷𝙴 𝙳𝙰𝚈 :
