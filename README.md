@@ -52,8 +52,8 @@
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
 <div align="center">
 <a href="https://github.com/sahildudhal21">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahildudhal21&theme=blue_green" height="18%" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahildudhal21&theme=blue_green" height="18%" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahildudhal21&theme=blue_green"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahildudhal21&theme=blue_green"/>
 </div>  
 
 </div>
