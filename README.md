@@ -43,7 +43,7 @@
 
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
 
-## 📊 𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝚂 :
+## 📊 𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝙸𝚂𝚃𝙸𝙲𝚂:
 <div align="center">
  
 ![](https://github-readme-stats.vercel.app/api?username=SAHILDUDHAL21&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)
@@ -57,7 +57,8 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahildudhal21&theme=blue_green" height="180em" />
 </div>
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
-<h2 align="left">⚡Activity Graph:</h2>
+
+### ⚡ 𝙰𝙲𝚃𝙸𝚅𝙸𝚃𝚈 𝙶𝚁𝙰𝙿𝙷:
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sahildudhal21&theme=react-dark"/>
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
 
