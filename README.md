@@ -43,11 +43,7 @@
 
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 
-###
 
-
-
-###
 
 ## 📊 𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝚂 :
 
@@ -57,9 +53,11 @@
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAHILDUDHAL21&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-<img src="https://raw.githubusercontent.com/SAHILDUDHAL21/SAHILDUDHAL21/output/snake.svg" alt="Snake animation" />
- 
 </div>
+
+###
+<img src="https://raw.githubusercontent.com/SAHILDUDHAL21/SAHILDUDHAL21/output/snake.svg" alt="Snake animation" />
+ ###
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 
 ### ✍️ 𝚀𝚄𝙾𝚃𝙴 𝙾𝙵 𝚃𝙷𝙴 𝙳𝙰𝚈 :
