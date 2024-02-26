@@ -50,14 +50,15 @@
 ![](https://github-readme-stats.vercel.app/api?username=sahildudhal21&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sahildudhal21&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahildudhal21&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<br clear="both">
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAHILDUDHAL21&radius=16&theme=radical&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<img src="https://raw.githubusercontent.com/SAHILDUDHAL21/SAHILDUDHAL21/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img src="https://raw.githubusercontent.com/SAHILDUDHAL21/SAHILDUDHAL21/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAHILDUDHAL21&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
