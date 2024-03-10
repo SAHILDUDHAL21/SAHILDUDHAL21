@@ -1,6 +1,6 @@
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
 
-![logo](https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/github-header-image.png)
+![logo](https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/20240303_1927361-ezgif.com-video-to-gif-converter.gif)
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
 
 <h1 align="center">𝕾𝖆𝖍𝖎𝖑 𝕯𝖚𝖉𝖍𝖆𝖑</h1>
