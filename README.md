@@ -49,9 +49,9 @@
 
 ## 📊 𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝙸𝚂𝚃𝙸𝙲𝚂:
 <div align="center">
-<!-- kar re benstrock -->
+<!-- kay re benstrock -->
 
-![](https://github-readme-stats.vercel.app/api?username=SAHILDUDHAL21&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=SAHILDUDHAL21&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&langs_count=50)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SAHILDUDHAL21&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAHILDUDHAL21&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=donut-vertical&langs_count=50)
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
@@ -81,7 +81,7 @@
 <!-- fu*k you  -->
 
 ## 🔝 𝚃𝙾𝙿 𝙲𝙾𝙽𝚃𝚁𝙸𝙱𝚄𝚃𝙴𝙳 𝚁𝙴𝙿𝙾𝚂𝙸𝚃𝙾𝚁𝙸𝙴𝚂 :
-![](https://github-contributor-stats.vercel.app/api?username=sahildudhal21&limit=7&theme=blue-green&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=sahildudhal21&limit=7&theme=blue-green&combine_all_yearly_contributions=true&langs_count=50)
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=Profile+views&color=0e75b6&style=flat" alt="sahildudhal21" /> </p>
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
