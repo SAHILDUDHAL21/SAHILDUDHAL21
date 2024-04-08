@@ -6,9 +6,8 @@
 <h1 align="center">𝕾𝖆𝖍𝖎𝖑 𝕯𝖚𝖉𝖍𝖆𝖑</h1>
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
 <p align="centre">
-𝚆𝚎𝚋𝙳𝚎𝚟 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SahilDProjects)
+𝚆𝚎𝚋𝙳𝚎𝚟 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 ::  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SahilDProjects)
 
 </p>
 
