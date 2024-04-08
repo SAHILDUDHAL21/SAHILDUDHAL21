@@ -58,6 +58,16 @@
 
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
 
+## 🥇 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 :
+
+|   𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚃𝚒𝚝𝚕𝚎    | 𝚅𝚒𝚎𝚠 𝙻𝚒𝚗𝚔𝚜|
+|--------------------|-----------|
+| 𝙲𝚊𝚕𝚌𝚞𝚕𝚊𝚝𝚘𝚛         |[![Calculator](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/Calculator/)|
+| 𝙲𝚊𝚔𝚎 𝙱𝚊𝚔𝚎𝚛𝚢 𝚂𝚑𝚘𝚙   |[![Bakery-Shop](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/Trisha_Bakers/)|
+| 𝙱𝚛𝚒𝚢𝚊𝚗𝚒 𝙷𝚘𝚞𝚜𝚎      |[![Briyni-House](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/The-Famous-Briyani-Bro-s/)|
+
+<img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
+
 ## 📊 𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝙸𝚂𝚃𝙸𝙲𝚂:
 <div align="center">
 <!-- kay re benstrock -->
@@ -96,15 +106,3 @@
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=Profile+views&color=0e75b6&style=flat" alt="sahildudhal21" /> </p>
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
-
-## 🥇 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 :
-
-|   𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚃𝚒𝚝𝚕𝚎    | 𝚅𝚒𝚎𝚠 𝙻𝚒𝚗𝚔𝚜|
-|--------------------|-----------|
-| 𝙲𝚊𝚕𝚌𝚞𝚕𝚊𝚝𝚘𝚛         |[![Calculator](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/Calculator/)|
-| 𝙲𝚊𝚔𝚎 𝙱𝚊𝚔𝚎𝚛𝚢 𝚂𝚑𝚘𝚙   |[![Bakery-Shop](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/Trisha_Bakers/)|
-| 𝙱𝚛𝚒𝚢𝚊𝚗𝚒 𝙷𝚘𝚞𝚜𝚎      |[![Briyni-House](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/The-Famous-Briyani-Bro-s/)|
-
-<img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
-
-
