@@ -7,7 +7,7 @@
 <p align="centre">
 𝚂𝚎𝚌𝚘𝚗𝚍 𝙰𝚌𝚌𝚘𝚞𝚗𝚝 𝚏𝚘𝚛 𝚆𝚎𝚋𝙳𝚎𝚟 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
 
-[![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SahilDProjects)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SahilDProjects)
 
 </p>
 
