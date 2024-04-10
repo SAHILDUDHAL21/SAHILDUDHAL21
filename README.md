@@ -7,7 +7,7 @@
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
 <p align="centre">
 
-𝚆𝚎𝚋𝙳𝚎𝚟 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 ::  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/SahilDProjects)
+|𝚆𝚎𝚋𝙳𝚎𝚟 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/SahilDProjects) |
 
 </p>
 
