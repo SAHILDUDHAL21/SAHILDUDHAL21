@@ -105,5 +105,5 @@
 ## 🔝 𝚃𝙾𝙿 𝙲𝙾𝙽𝚃𝚁𝙸𝙱𝚄𝚃𝙴𝙳 𝚁𝙴𝙿𝙾𝚂𝙸𝚃𝙾𝚁𝙸𝙴𝚂 :
 ![](https://github-contributor-stats.vercel.app/api?username=sahildudhal21&limit=7&theme=blue-green&combine_all_yearly_contributions=true&langs_count=50)
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=Profile+views&color="red"&style=flat" alt="sahildudhal21" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=Profile+views&color=0D98BA&style=flat" alt="sahildudhal21" /> </p>
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
