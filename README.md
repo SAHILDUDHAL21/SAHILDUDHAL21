@@ -85,7 +85,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahildudhal21&theme=blue_green" height="180em" />
 </div> 
 
-<!-- tuza aai la bc -->
+<!-- tuza ... la bc -->
 
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
 
@@ -93,14 +93,14 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sahildudhal21&theme=react-dark"/>
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
 
-<!-- jaa pustakat aai bap bg itha nako dok lau -->
+<!-- jaa pal itha nako dok lau -->
 
 ## ✍️ 𝚀𝚄𝙾𝚃𝙴 𝙾𝙵 𝚃𝙷𝙴 𝙳𝙰𝚈 :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
 
-<!-- fu*k you  -->
+<!-- f**k you  -->
 
 ## 🔝 𝚃𝙾𝙿 𝙲𝙾𝙽𝚃𝚁𝙸𝙱𝚄𝚃𝙴𝙳 𝚁𝙴𝙿𝙾𝚂𝙸𝚃𝙾𝚁𝙸𝙴𝚂 :
 ![](https://github-contributor-stats.vercel.app/api?username=sahildudhal21&limit=7&theme=blue-green&combine_all_yearly_contributions=true&langs_count=50)
