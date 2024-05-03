@@ -28,7 +28,7 @@
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : <i>𝙸 𝚊𝚖 𝚗𝚎𝚟𝚎𝚛 𝚋𝚘𝚛𝚎𝚍 𝚘𝚏 𝚌𝚘𝚖𝚙𝚞𝚝𝚒𝚗𝚐,𝚌𝚊𝚗 𝚠𝚘𝚛𝚔 𝚏𝚘𝚛 𝚑𝚘𝚞𝚛𝚜.</i>
 </p> <!-- kay re bhuspangya  -->
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=👨‍💼Profile+views&color=0e75b6&style=flat" alt="sahildudhal21"/></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=👨‍💼𝙿𝚛𝚘𝚏𝚒𝚕𝚎+𝚟𝚒𝚎𝚠𝚜&color=0e75b6&style=flat" alt="sahildudhal21"/></p>
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
 
 ## 🌐 𝙲𝙾𝙽𝙽𝙴𝙲𝚃 𝚆𝙸𝚃𝙷 𝙼𝙴:
