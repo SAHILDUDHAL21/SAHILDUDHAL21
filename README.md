@@ -8,7 +8,7 @@
 
 
 |𝚆𝚎𝚋𝙳𝚎𝚟 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/SahilDProjects) |
-|:--------|------:|
+|:--------:|:------:|
 
 
 <!-- <h4 align="center">𝙰 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 𝚏𝚛𝚘𝚖 𝙸𝚗𝚍𝚒𝚊</h4> -->
