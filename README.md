@@ -13,7 +13,7 @@
 
 <!-- <h4 align="center">𝙰 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 𝚏𝚛𝚘𝚖 𝙸𝚗𝚍𝚒𝚊</h4> -->
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
-<img height="20%" width="98% align="centre" src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/IMG_20230828_202253.jpg">
+<img height="20%" width="99.99% align="centre" src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/IMG_20230828_202253.jpg">
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
 <p align="centre">
 
