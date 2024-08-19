@@ -67,8 +67,8 @@
 
 |𝙹𝚊𝚟𝚊 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜|𝚅𝚒𝚜𝚒𝚝| Watch|
 |-------------|-----|------|
-|Tic Tac Toe|||
-|𝙵𝚕𝚊𝚙𝚙𝚢 𝙱𝚒𝚛𝚍|||
+|Tic Tac Toe|[![Calculator](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/Calculator/)|[![Calculator](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/Calculator/)|
+|𝙵𝚕𝚊𝚙𝚙𝚢 𝙱𝚒𝚛𝚍|[![Calculator](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/Calculator/)|[![Calculator](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/Calculator/)|
 
 
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
