@@ -65,10 +65,10 @@
 | 𝙲𝚊𝚔𝚎 𝙱𝚊𝚔𝚎𝚛𝚢 𝚂𝚑𝚘𝚙   |[![Bakery-Shop](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/Trisha_Bakers/)|
 | 𝙱𝚛𝚒𝚢𝚊𝚗𝚒 𝙷𝚘𝚞𝚜𝚎      |[![Briyni-House](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/The-Famous-Briyani-Bro-s/)|
 
-|𝙹𝚊𝚟𝚊 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜|𝚅𝚒𝚜𝚒𝚝| Watch|
+|𝙹𝚊𝚟𝚊 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜|𝚅𝚒𝚜𝚒𝚝| 𝚆𝚊𝚝𝚌𝚑|
 |-------------|-----|------|
 |Tic Tac Toe|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Tic-Tac-Toe)|[![ttt](https://img.shields.io/badge/Watch-blue.svg)](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)|
-|𝙵𝚕𝚊𝚙𝚙𝚢 𝙱𝚒𝚛𝚍|[![fb](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Flappy-Bird)|[![fb](https://img.shields.io/badge/Visit-blue.svg)](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)|
+|𝙵𝚕𝚊𝚙𝚙𝚢 𝙱𝚒𝚛𝚍|[![fb](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Flappy-Bird)|[![fb](https://img.shields.io/badge/Watch-blue.svg)](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)|
 
 
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
