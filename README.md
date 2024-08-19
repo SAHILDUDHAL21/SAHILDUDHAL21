@@ -67,8 +67,8 @@
 
 |𝙹𝚊𝚟𝚊 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜|𝚅𝚒𝚜𝚒𝚝| Watch|
 |-------------|-----|------|
-|Tic Tac Toe|[![Calculator](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/Calculator/)|[![Calculator](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/Calculator/)|
-|𝙵𝚕𝚊𝚙𝚙𝚢 𝙱𝚒𝚛𝚍|[![Calculator](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/Calculator/)|[![Calculator](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/Calculator/)|
+|Tic Tac Toe|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Tic-Tac-Toe)|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)|
+|𝙵𝚕𝚊𝚙𝚙𝚢 𝙱𝚒𝚛𝚍|[![fb](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Flappy-Bird)|[![fb](https://img.shields.io/badge/Visit-blue.svg)](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)|
 
 
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
