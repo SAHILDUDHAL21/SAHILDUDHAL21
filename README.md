@@ -7,7 +7,7 @@
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
 
 
-|𝚆𝚎𝚋𝙳𝚎𝚟 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/SahilDProjects) |
+|𝙰𝚕𝚜𝚘 𝚅𝚒𝚜𝚒𝚝| [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/SahilDProjects) |
 |:--------:|:------:|
 
 
@@ -59,16 +59,16 @@
 
 ## 🥇 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 :
 
-|   𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚃𝚒𝚝𝚕𝚎    | 𝚅𝚒𝚎𝚠 𝙻𝚒𝚗𝚔𝚜|
+|  𝚆𝚎𝚋 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜    | 𝚅𝚒𝚎𝚠 𝙻𝚒𝚗𝚔𝚜|
 |:-------------------|:----------:|
 | 𝙲𝚊𝚕𝚌𝚞𝚕𝚊𝚝𝚘𝚛         |[![Calculator](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/Calculator/)|
 | 𝙲𝚊𝚔𝚎 𝙱𝚊𝚔𝚎𝚛𝚢 𝚂𝚑𝚘𝚙   |[![Bakery-Shop](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/Trisha_Bakers/)|
 | 𝙱𝚛𝚒𝚢𝚊𝚗𝚒 𝙷𝚘𝚞𝚜𝚎      |[![Briyni-House](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/The-Famous-Briyani-Bro-s/)|
 
-|Java Projects|Visit| Watch|
+|𝙹𝚊𝚟𝚊 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜|𝚅𝚒𝚜𝚒𝚝| Watch|
 |-------------|-----|------|
 |Tic Tac Toe|||
-|Flappy Bird|||
+|𝙵𝚕𝚊𝚙𝚙𝚢 𝙱𝚒𝚛𝚍|||
 
 
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
