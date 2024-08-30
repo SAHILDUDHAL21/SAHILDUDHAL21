@@ -69,7 +69,7 @@
 |-------------|-----|------|
 |𝚃𝚒𝚌 𝚃𝚊𝚌 𝚃𝚘𝚎|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Tic-Tac-Toe)|[![ttt](https://img.shields.io/badge/Watch-red.svg)](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)|
 |𝙵𝚕𝚊𝚙𝚙𝚢 𝙱𝚒𝚛𝚍|[![fb](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Flappy-Bird)|[![fb](https://img.shields.io/badge/Watch-red.svg)](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)|
-|𝚂𝚗𝚊𝚔𝚎 𝙶𝚊𝚖𝚎|[![sg](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Snake-Game)|[![sg](https://img.shields.io/badge/Watch-red.svg)](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)|
+|𝚂𝚗𝚊𝚔𝚎 𝙶𝚊𝚖𝚎|[![sg](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Snake-Game)|[![sg](https://img.shields.io/badge/Watch-red.svg)](https://www.youtube.com/watch?v=nRIaHk6XWus)|
 |𝚄𝚗𝚒𝚝 𝙲𝚘𝚗𝚟𝚎𝚛𝚝𝚎𝚛| [![uc](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Unit-Converter)|[![uc](https://img.shields.io/badge/Watch-red.svg)](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)|
 
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
