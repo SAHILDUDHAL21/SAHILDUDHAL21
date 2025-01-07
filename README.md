@@ -79,7 +79,10 @@
 <!-- kay re benstrock -->
 
 ![](https://github-readme-stats.vercel.app/api?username=SAHILDUDHAL21&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&langs_count=200&disable_animations=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SAHILDUDHAL21&theme=blue-green&hide_border=false&disable_animations=false)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=SAHILDUDHAL21&theme=blue-green&hide_border=false&disable_animations=false)
+<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAHILDUDHAL21&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=200&disable_animations=false)
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
 </div>
