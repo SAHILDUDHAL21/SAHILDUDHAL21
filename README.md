@@ -78,11 +78,11 @@
 |Flutter 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜|𝚅𝚒𝚜𝚒𝚝|
 |-------------|-----|
 | 𝚃𝚘𝙳𝚘|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/To-Do)|
-|Calculator|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Flutter-Calculator)|
-|Battery Health Checker|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Battery-Info)|
-|Libre Paper Wall|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/libre-PaperWall)|
-|Ghost Browser|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Ghost-Browser)|
-|Just Type|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Just-Type)|
+|𝙲𝚊𝚕𝚌𝚞𝚕𝚊𝚝𝚘𝚛|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Flutter-Calculator)|
+|𝙱𝚊𝚝𝚝𝚎𝚛𝚢 𝙷𝚎𝚊𝚕𝚝𝚑 𝙲𝚑𝚎𝚌𝚔𝚎𝚛|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Battery-Info)|
+|𝙻𝚒𝚋𝚛𝚎 𝙿𝚊𝚙𝚎𝚛𝚆𝚊𝚕𝚕|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/libre-PaperWall)|
+|𝙶𝚑𝚘𝚜𝚝 𝙱𝚛𝚘𝚠𝚜𝚎𝚛|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Ghost-Browser)|
+|𝙹𝚞𝚜𝚝 𝚃𝚢𝚙𝚎|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Just-Type)|
 
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
 
