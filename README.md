@@ -64,18 +64,25 @@
 | 𝙲𝚊𝚕𝚌𝚞𝚕𝚊𝚝𝚘𝚛         |[![Calculator](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/Calculator/)|
 | 𝙲𝚊𝚔𝚎 𝙱𝚊𝚔𝚎𝚛𝚢 𝚂𝚑𝚘𝚙   |[![Bakery-Shop](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/Trisha_Bakers/)|
 | 𝙱𝚛𝚒𝚢𝚊𝚗𝚒 𝙷𝚘𝚞𝚜𝚎      |[![Briyni-House](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/The-Famous-Briyani-Bro-s/)|
+| Just Type      |[![Briyni-House](https://img.shields.io/badge/Visit-blue.svg)](https://sahildudhal21.github.io/Just-Type-Web/)|
+| Libre PaperWall      |[![Briyni-House](https://img.shields.io/badge/Visit-blue.svg)](https://sahildudhal21.github.io/Libre-PaperWall-Web/)|
 
-|𝙹𝚊𝚟𝚊 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜|𝚅𝚒𝚜𝚒𝚝| 𝚆𝚊𝚝𝚌𝚑|
-|-------------|-----|------|
-|𝚃𝚒𝚌 𝚃𝚊𝚌 𝚃𝚘𝚎|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Tic-Tac-Toe)|[![ttt](https://img.shields.io/badge/Watch-red.svg)](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)|
-|𝙵𝚕𝚊𝚙𝚙𝚢 𝙱𝚒𝚛𝚍|[![fb](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Flappy-Bird)|[![fb](https://img.shields.io/badge/Watch-red.svg)](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)|
-|𝚂𝚗𝚊𝚔𝚎 𝙶𝚊𝚖𝚎|[![sg](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Snake-Game)|[![sg](https://img.shields.io/badge/Watch-red.svg)](https://www.youtube.com/watch?v=nRIaHk6XWus)|
-|𝚄𝚗𝚒𝚝 𝙲𝚘𝚗𝚟𝚎𝚛𝚝𝚎𝚛| [![uc](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Unit-Converter)|[![uc](https://img.shields.io/badge/Watch-red.svg)](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)|
+|𝙹𝚊𝚟𝚊 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜|𝚅𝚒𝚜𝚒𝚝|
+|-------------|-----|
+|𝚃𝚒𝚌 𝚃𝚊𝚌 𝚃𝚘𝚎|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Tic-Tac-Toe)|
+|𝙵𝚕𝚊𝚙𝚙𝚢 𝙱𝚒𝚛𝚍|[![fb](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Flappy-Bird)|
+|𝚂𝚗𝚊𝚔𝚎 𝙶𝚊𝚖𝚎|[![sg](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Snake-Game)|
+|𝚄𝚗𝚒𝚝 𝙲𝚘𝚗𝚟𝚎𝚛𝚝𝚎𝚛| [![uc](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Unit-Converter)|
 
 
-|Flutter 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜|𝚅𝚒𝚜𝚒𝚝| 𝚆𝚊𝚝𝚌𝚑|
-|-------------|-----|------|
-|Libre Paper Wall|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Tic-Tac-Toe)|[![ttt](https://img.shields.io/badge/Watch-red.svg)](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)|
+|Flutter 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜|𝚅𝚒𝚜𝚒𝚝|
+|-------------|-----|
+|TODO|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/To-Do)|
+|Calculator|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Flutter-Calculator)|
+|Battery Health Checker|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Battery-Info)|
+|Libre Paper Wall|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/libre-PaperWall)|
+|Ghost Browser|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Ghost-Browser)|
+|Just Type|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Just-Type)|
 
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
 
