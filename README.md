@@ -32,7 +32,7 @@
 
 ## 🌐 𝙲𝙾𝙽𝙽𝙴𝙲𝚃 𝚆𝙸𝚃𝙷 𝙼𝙴 :
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white)](mailto:sahildudhal1364@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@sahild11) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sahil_dudhal_1311) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-dudhal-1b11b925a) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sahil-Dudhal?ch=10&oid=2154182190&share=6cf86f0a&srid=hjD9gj&target_type=user)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@sahild11) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sahil_dudhal_11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-dudhal-1b11b925a)
 [![image](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](http://t.me/Sahil_Dudhal) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sahild1311) 
 
