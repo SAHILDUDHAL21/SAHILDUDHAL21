@@ -84,6 +84,9 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) 
 ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=flat&logo=xiaomi&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat&logo=Windows%2011&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=flat&logo=android%20Studio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat&logo=Sublime-Text&logoColor=important)
 
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
 
