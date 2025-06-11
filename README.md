@@ -102,8 +102,8 @@
 | 𝙲𝚊𝚕𝚌𝚞𝚕𝚊𝚝𝚘𝚛         |[![Calculator](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/Calculator/)|
 | 𝙲𝚊𝚔𝚎 𝙱𝚊𝚔𝚎𝚛𝚢 𝚂𝚑𝚘𝚙   |[![Bakery-Shop](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/Trisha_Bakers/)|
 | 𝙱𝚛𝚒𝚢𝚊𝚗𝚒 𝙷𝚘𝚞𝚜𝚎      |[![Briyni-House](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/The-Famous-Briyani-Bro-s/)|
-| 𝙹𝚞𝚜𝚝 𝚃𝚢𝚙𝚎 (𝙵𝚕𝚞𝚝𝚝𝚎𝚛) |[![Briyni-House](https://img.shields.io/badge/Visit-blue.svg)](https://sahildudhal21.github.io/Just-Type-Web/)|
-| 𝙻𝚒𝚋𝚛𝚎 𝙿𝚊𝚙𝚎𝚛𝚆𝚊𝚕𝚕 (𝙵𝚕𝚞𝚝𝚝𝚎𝚛)     |[![Briyni-House](https://img.shields.io/badge/Visit-blue.svg)](https://sahildudhal21.github.io/Libre-PaperWall-Web/)|
+| 𝙹𝚞𝚜𝚝 𝚃𝚢𝚙𝚎 (𝙵𝚕𝚞𝚝𝚝𝚎𝚛) |[![justtype](https://img.shields.io/badge/Visit-blue.svg)](https://sahildudhal21.github.io/Just-Type-Web/)|
+| 𝙻𝚒𝚋𝚛𝚎 𝙿𝚊𝚙𝚎𝚛𝚆𝚊𝚕𝚕 (𝙵𝚕𝚞𝚝𝚝𝚎𝚛)     |[![librepaperwall](https://img.shields.io/badge/Visit-blue.svg)](https://sahildudhal21.github.io/Libre-PaperWall-Web/)|
 
 |𝙹𝚊𝚟𝚊 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜|𝚅𝚒𝚜𝚒𝚝|
 |-------------|-----|
@@ -115,13 +115,13 @@
 
 |𝙵𝚕𝚞𝚝𝚝𝚎𝚛 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜|𝚅𝚒𝚜𝚒𝚝|
 |-------------|-----|
-| 𝚃𝚘𝙳𝚘|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/To-Do)|
-|𝙲𝚊𝚕𝚌𝚞𝚕𝚊𝚝𝚘𝚛|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Flutter-Calculator)|
-|𝙱𝚊𝚝𝚝𝚎𝚛𝚢 𝙷𝚎𝚊𝚕𝚝𝚑 𝙲𝚑𝚎𝚌𝚔𝚎𝚛|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Battery-Info)|
-|𝙻𝚒𝚋𝚛𝚎 𝙿𝚊𝚙𝚎𝚛𝚆𝚊𝚕𝚕|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/libre-PaperWall)|
-|𝙶𝚑𝚘𝚜𝚝 𝙱𝚛𝚘𝚠𝚜𝚎𝚛|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Ghost-Browser)|
-|𝙹𝚞𝚜𝚝 𝚃𝚢𝚙𝚎|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Just-Type)|
-|𝙻𝚎𝚎𝚝𝙲𝚘𝚍𝚎 𝚄𝚗𝚘𝚏𝚏𝚒𝚌𝚒𝚊𝚕 𝙲𝚕𝚒𝚎𝚗𝚝|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/LeetCode-Unofficial-Mobile-App?tab=readme-ov-file#-screenshots--demo)|
+| 𝚃𝚘𝙳𝚘|[![todo](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/To-Do)|
+|𝙲𝚊𝚕𝚌𝚞𝚕𝚊𝚝𝚘𝚛|[![calculator](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Flutter-Calculator)|
+|𝙱𝚊𝚝𝚝𝚎𝚛𝚢 𝙷𝚎𝚊𝚕𝚝𝚑 𝙲𝚑𝚎𝚌𝚔𝚎𝚛|[![batteryhealthcheckr](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Battery-Info)|
+|𝙻𝚒𝚋𝚛𝚎 𝙿𝚊𝚙𝚎𝚛𝚆𝚊𝚕𝚕|[![librepaperwall](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/libre-PaperWall)|
+|𝙶𝚑𝚘𝚜𝚝 𝙱𝚛𝚘𝚠𝚜𝚎𝚛|[![ghostbrowser](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Ghost-Browser)|
+|𝙹𝚞𝚜𝚝 𝚃𝚢𝚙𝚎|[![justtype](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Just-Type)|
+|𝙻𝚎𝚎𝚝𝙲𝚘𝚍𝚎 𝚄𝚗𝚘𝚏𝚏𝚒𝚌𝚒𝚊𝚕 𝙲𝚕𝚒𝚎𝚗𝚝|[![leetcodeunnofficial](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/LeetCode-Unofficial-Mobile-App?tab=readme-ov-file#-screenshots--demo)|
 
 
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
