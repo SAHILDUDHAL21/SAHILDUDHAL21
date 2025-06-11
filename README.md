@@ -121,6 +121,8 @@
 |𝙻𝚒𝚋𝚛𝚎 𝙿𝚊𝚙𝚎𝚛𝚆𝚊𝚕𝚕|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/libre-PaperWall)|
 |𝙶𝚑𝚘𝚜𝚝 𝙱𝚛𝚘𝚠𝚜𝚎𝚛|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Ghost-Browser)|
 |𝙹𝚞𝚜𝚝 𝚃𝚢𝚙𝚎|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Just-Type)|
+|LeetCode Unofficial Client|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/LeetCode-Unofficial-Mobile-App?tab=readme-ov-file#-screenshots--demo)|
+
 
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
 
