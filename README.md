@@ -102,8 +102,8 @@
 | 𝙲𝚊𝚕𝚌𝚞𝚕𝚊𝚝𝚘𝚛         |[![Calculator](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/Calculator/)|
 | 𝙲𝚊𝚔𝚎 𝙱𝚊𝚔𝚎𝚛𝚢 𝚂𝚑𝚘𝚙   |[![Bakery-Shop](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/Trisha_Bakers/)|
 | 𝙱𝚛𝚒𝚢𝚊𝚗𝚒 𝙷𝚘𝚞𝚜𝚎      |[![Briyni-House](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/The-Famous-Briyani-Bro-s/)|
-| 𝙹𝚞𝚜𝚝 𝚃𝚢𝚙𝚎   |[![Briyni-House](https://img.shields.io/badge/Visit-blue.svg)](https://sahildudhal21.github.io/Just-Type-Web/)|
-| 𝙻𝚒𝚋𝚛𝚎 𝙿𝚊𝚙𝚎𝚛𝚆𝚊𝚕𝚕     |[![Briyni-House](https://img.shields.io/badge/Visit-blue.svg)](https://sahildudhal21.github.io/Libre-PaperWall-Web/)|
+| 𝙹𝚞𝚜𝚝 𝚃𝚢𝚙𝚎 (𝙵𝚕𝚞𝚝𝚝𝚎𝚛) |[![Briyni-House](https://img.shields.io/badge/Visit-blue.svg)](https://sahildudhal21.github.io/Just-Type-Web/)|
+| 𝙻𝚒𝚋𝚛𝚎 𝙿𝚊𝚙𝚎𝚛𝚆𝚊𝚕𝚕 (𝙵𝚕𝚞𝚝𝚝𝚎𝚛)     |[![Briyni-House](https://img.shields.io/badge/Visit-blue.svg)](https://sahildudhal21.github.io/Libre-PaperWall-Web/)|
 
 |𝙹𝚊𝚟𝚊 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜|𝚅𝚒𝚜𝚒𝚝|
 |-------------|-----|
