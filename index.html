@@ -22,29 +22,39 @@
             border-radius: 5px;
             overflow-x: auto;
         }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
     </style>
 </head>
-    <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-7NPZ70EH9T"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-7NPZ70EH9T');
-</script>
 <body>
     <div id="readme">Loading README...</div>
 
     <script>
-        fetch('README.md') // path to your external README file
+        const basePath = './'; // folder containing README.md and images
+
+        fetch('README.md')
             .then(response => response.text())
             .then(text => {
-                document.getElementById('readme').innerHTML = marked.parse(text);
+                // Fix relative image paths
+                const fixedText = text.replace(/!\[([^\]]*)\]\((?!https?:\/\/)([^)]+)\)/g, (match, alt, src) => {
+                    return `![${alt}](${basePath}${src})`;
+                });
+                document.getElementById('readme').innerHTML = marked.parse(fixedText);
             })
             .catch(err => {
                 document.getElementById('readme').innerText = 'Failed to load README: ' + err;
             });
+    </script>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-7NPZ70EH9T"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-7NPZ70EH9T');
     </script>
 </body>
 </html>
