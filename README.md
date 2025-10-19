@@ -1,3 +1,17 @@
+<head>
+ <title>Sahil Dudhal Github</title>
+</head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7NPZ70EH9T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7NPZ70EH9T');
+</script>
+<body>
+
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
 
 ![logo](https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/20240303_1927361-ezgif.com-video-to-gif-converter.gif)
@@ -167,3 +181,5 @@
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=👨‍💼+Profile+views&color=0D98BA&style=flat" alt="sahildudhal21"/> </p>
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
+
+</body>
