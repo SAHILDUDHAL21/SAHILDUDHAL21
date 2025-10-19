@@ -1,10 +1,10 @@
 <img src="20240303_1927361-ezgif.com-video-to-gif-converter.gif">
 
-![logo](https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/20240303_1927361-ezgif.com-video-to-gif-converter.gif)
-<img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
+![logo](20240303_1927361-ezgif.com-video-to-gif-converter.gif)
+<img src="line11.gif">
 
 <h1 align="center">𝕾𝖆𝖍𝖎𝖑 𝕯𝖚𝖉𝖍𝖆𝖑</h1>
-<img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
+<img src="line11.gif">
 
 
 |𝙰𝚕𝚜𝚘 𝚅𝚒𝚜𝚒𝚝| [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/SahilDProjects) |
@@ -12,9 +12,9 @@
 
 
 <!-- <h4 align="center">𝙰 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 𝚏𝚛𝚘𝚖 𝙸𝚗𝚍𝚒𝚊</h4> -->
-<img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
-<img height="20%" width="99.99% align="centre" src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/IMG_20230828_202253.jpg">
-<img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
+<img src="line11.gif">
+<img height="20%" width="99.99% align="centre" src="IMG_20230828_202253.jpg">
+<img src="line11.gif">
 <p align="centre">
 
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 <b>Java</b>
@@ -26,9 +26,9 @@
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : <i>𝙸 𝚊𝚖 𝚗𝚎𝚟𝚎𝚛 𝚋𝚘𝚛𝚎𝚍 𝚘𝚏 𝚌𝚘𝚖𝚙𝚞𝚝𝚒𝚗𝚐,𝚌𝚊𝚗 𝚠𝚘𝚛𝚔 𝚏𝚘𝚛 𝚑𝚘𝚞𝚛𝚜.</i>
 
 </p> <!-- kay re bhuspangya  -->
-<img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
+<img src="line11.gif">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=🧑🏻‍💼+Profile+views&color=0e75b6&style=flat" alt="sahildudhal21"/></p>
-<img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
+<img src="line11.gif">
 
 ## 🌐 𝙲𝙾𝙽𝙽𝙴𝙲𝚃 𝚆𝙸𝚃𝙷 𝙼𝙴 :
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white)](mailto:sahildudhal1364@gmail.com)
@@ -36,7 +36,7 @@
 [![image](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](http://t.me/Sahil_Dudhal) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sahild1311) 
 
-<img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
+<img src="line11.gif">
 
 ## 💻 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 & 𝚂𝙺𝙸𝙻𝙻𝚂 :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
@@ -88,12 +88,12 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat&logo=Sublime-Text&logoColor=important)
 
-<img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
+<img src="line11.gif">
 
 ## 🏆 𝙶𝙸𝚃𝙷𝚄𝙱 𝚃𝚁𝙾𝙿𝙷𝙸𝙴𝚂 :
 ![](https://github-profile-trophy.vercel.app/?username=SAHILDUDHAL21&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
+<img src="line11.gif">
 
 ## 🥇 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 :
 
@@ -124,7 +124,7 @@
 |𝙻𝚎𝚎𝚝𝙲𝚘𝚍𝚎 𝚄𝚗𝚘𝚏𝚏𝚒𝚌𝚒𝚊𝚕 𝙲𝚕𝚒𝚎𝚗𝚝|[![leetcodeunnofficial](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/LeetCode-Unofficial-Mobile-App?tab=readme-ov-file#-screenshots--demo)|
 
 
-<img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
+<img src="line11.gif">
 
 ## 📊 𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝙸𝚂𝚃𝙸𝙲𝚂 :
 <div align="center">
@@ -147,12 +147,12 @@
 
 <!-- tuza ... la b* -->
 
-<img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
+<img src="line11.gif">
 
 ## ⚡ 𝙰𝙲𝚃𝙸𝚅𝙸𝚃𝚈 𝙶𝚁𝙰𝙿𝙷 :
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sahildudhal21&theme=react-dark"/>
-<img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
 
+<img src="line11.gif">
 <!-- jaa pal itha nako dok lau -->
 
 ## ✍️ 𝚀𝚄𝙾𝚃𝙴 𝙾𝙵 𝚃𝙷𝙴 𝙳𝙰𝚈 :
@@ -167,6 +167,7 @@
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=👨‍💼+Profile+views&color=0D98BA&style=flat" alt="sahildudhal21"/> </p>
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
+
 
 
 
