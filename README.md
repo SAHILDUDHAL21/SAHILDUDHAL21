@@ -158,7 +158,7 @@
 ## ✍️ 𝚀𝚄𝙾𝚃𝙴 𝙾𝙵 𝚃𝙷𝙴 𝙳𝙰𝚈 :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
+<img src="line11.gif">
 
 <!-- f**k you  -->
 
@@ -166,7 +166,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=sahildudhal21&limit=7&theme=blue-green&combine_all_yearly_contributions=true&langs_count=50)
 <img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=👨‍💼+Profile+views&color=0D98BA&style=flat" alt="sahildudhal21"/> </p>
-<img src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/line11.gif">
+<img src="line11.gif">
+
 
 
 
